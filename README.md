@@ -32,6 +32,15 @@ tkinter sur Windows, propulsé par HandBrakeCLI.
 
 `Python` · `GTK4` · `HandBrakeCLI`
 
+### [Mosaïk](https://github.com/asblPixels/Mosaik) — récupérateur de fichiers visuel
+
+Outil open source pour toutes les distributions Linux qui retrouve photos, documents,
+musiques et vidéos effacés, même fragmentés ou sur un disque abîmé. Le disque s'affiche
+en mosaïque pendant l'analyse ; les fichiers coupés en morceaux sont recollés et vérifiés.
+Intègre The Sleuth Kit pour retrouver les noms d'origine.
+
+`Python` · `The Sleuth Kit` · `Interface web locale`
+
 ## Nous contacter
 
 - **Site** : [asblpixels.be](https://www.asblpixels.be)
