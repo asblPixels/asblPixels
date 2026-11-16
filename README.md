@@ -24,6 +24,18 @@ accessible, concrète et utile aux personnes comme aux projets locaux.
 
 ## Nos projets
 
+### [Plume](https://github.com/asblPixels/plume) — traitement de texte libre, compatible Word
+
+Traitement de texte complet dans le navigateur, avec une interface à ruban familière.
+Il ouvre et enregistre les fichiers `.docx` et conserve à l'identique graphiques,
+équations, commentaires et suivi des modifications. Il fonctionne hors ligne et
+s'installe comme une application sur Windows, macOS, Linux, Android et iOS.
+Les documents restent sur l'appareil.
+
+[▶ Utiliser Plume en ligne](https://asblpixels.github.io/plume/)
+
+`JavaScript` · `PWA` · `Office Open XML`
+
 ### [ripdvd](https://github.com/asblPixels/ripdvd) — ripper de DVD en un clic
 
 Outil open source pour Linux et Windows qui convertit un DVD en MKV H.264,
