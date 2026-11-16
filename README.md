@@ -24,7 +24,7 @@ accessible, concrète et utile aux personnes comme aux projets locaux.
 
 ## Nos projets
 
-### [Plume](https://github.com/asblPixels/plume) — traitement de texte libre, compatible Word
+### [Plume](https://github.com/asblPixels/Plume) — traitement de texte libre, compatible Word
 
 Traitement de texte complet dans le navigateur, avec une interface à ruban familière.
 Il ouvre et enregistre les fichiers `.docx` et conserve à l'identique graphiques,
@@ -32,7 +32,7 @@ Il ouvre et enregistre les fichiers `.docx` et conserve à l'identique graphique
 s'installe comme une application sur Windows, macOS, Linux, Android et iOS.
 Les documents restent sur l'appareil.
 
-[▶ Utiliser Plume en ligne](https://asblpixels.github.io/plume/)
+[▶ Utiliser Plume en ligne](https://asblpixels.github.io/Plume/)
 
 `JavaScript` · `PWA` · `Office Open XML`
 
