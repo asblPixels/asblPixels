@@ -51,7 +51,7 @@ musiques et vidéos effacés, même fragmentés ou sur un disque abîmé. Le dis
 en mosaïque pendant l'analyse ; les fichiers fragmentés sont réassemblés et validés.
 Intègre The Sleuth Kit pour retrouver les noms d'origine.
 
-[▶ Utiliser Mosaïk en ligne](https://asblpixels.github.io/Mosaik/)
+[▶ Utiliser Mosaïk en ligne](https://asblpixels.github.io/Mosaik/) · [⬇ Télécharger pour Windows (.exe)](https://github.com/asblPixels/Mosaik/releases/latest/download/Mosaik.exe)
 
 `Python` · `The Sleuth Kit` · `Linux` · `Windows`
 
