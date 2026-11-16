@@ -48,7 +48,7 @@ tkinter sur Windows, propulsé par HandBrakeCLI.
 
 Outil open source pour Linux (toutes distributions) et Windows qui retrouve photos, documents,
 musiques et vidéos effacés, même fragmentés ou sur un disque abîmé. Le disque s'affiche
-en mosaïque pendant l'analyse ; les fichiers coupés en morceaux sont recollés et vérifiés.
+en mosaïque pendant l'analyse ; les fichiers fragmentés sont réassemblés et validés.
 Intègre The Sleuth Kit pour retrouver les noms d'origine.
 
 [▶ Utiliser Mosaïk en ligne](https://asblpixels.github.io/Mosaik/)
