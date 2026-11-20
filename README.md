@@ -32,7 +32,7 @@ Il ouvre et enregistre les fichiers `.docx` et conserve à l'identique graphique
 s'installe comme une application sur Windows, macOS, Linux, Android et iOS.
 Les documents restent sur l'appareil.
 
-[▶ Utiliser Plume en ligne](https://asblpixels.github.io/Plume/)
+[▶ Utiliser Plume en ligne : **plume.asblpixels.be**](https://plume.asblpixels.be)
 
 `JavaScript` · `PWA` · `Office Open XML`
 
